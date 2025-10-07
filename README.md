@@ -1,7 +1,7 @@
 Keylogger Uygulaması (Eğitim Amaçlı)
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/364a9cd8-7029-4c5f-a256-06d705046f99" />
 
-
+video linki= https://youtu.be/H2wXIBVtsY4
 Bu proje, C# Windows Forms kullanılarak hazırlanmış bir tuş kaydedici (keylogger) uygulamasıdır.
 Programın testi için kullanılan video Zehra Kelahmetoğlu'nun rızasıyla çekilmiştir.
 Tamamen eğitim ve etik kullanım amaçlıdır. Program, kullanıcıdan açık izin alındığında klavye girişlerini kaydedip e-posta ile gönderir.
