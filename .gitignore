@@ -1,0 +1,14 @@
+﻿# Build klasörleri
+bin/
+obj/
+.vs/
+
+# Gizli dosyalar
+.env
+secrets.json
+
+# IDE ayarları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
