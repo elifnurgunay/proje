@@ -31,7 +31,6 @@ Install-Package dotenv.net
 
 Proje dizinine (örneğin bin/Debug/ veya proje kök klasörüne) bir .env dosyası oluşturun:
 
-EMAIL=youremail@gmail.com
 APP_PASSWORD=yourapppassword
 
 
