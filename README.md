@@ -3,7 +3,7 @@ Keylogger Uygulaması (Eğitim Amaçlı)
 
 video linki= https://youtu.be/H2wXIBVtsY4
 Bu proje, C# Windows Forms kullanılarak hazırlanmış bir tuş kaydedici (keylogger) uygulamasıdır.
-Programın testi için kullanılan video Zehra Kelahmetoğlu'nun rızasıyla çekilmiştir.
+Programın testi için kullanılan video Sevda Tuba Ehlibeyt'in rızasıyla çekilmiştir.
 Tamamen eğitim ve etik kullanım amaçlıdır. Program, kullanıcıdan açık izin alındığında klavye girişlerini kaydedip e-posta ile gönderir.
 
 🚀 Özellikler
